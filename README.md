@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @talkershow
-- 👀 I’m interested in read
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 嗨，大家好，我是道具是只猫。
+- 👀 我喜欢阅读，跑步。
+- 🌱 我自己创建了三人行学社社群和知识星球
+- 💞️ 我也是播客《喵味电波》的主播
+- 📫 我也是一名逻辑思维引导师
 
 <!---
 talkershow/talkershow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
